@@ -19,6 +19,10 @@
 `loop()` - Allows the program to infinitely loop
 `concentricRects()` - Defines colors and establishes two states (open mouth and closed mouth) to alternate between while in a loop. 
 
+### Fritzing Diagram
+
+<img width="607" alt="fritzdiagram" src="https://github.com/user-attachments/assets/df4b17f3-2255-42ab-8668-069a451cace2">
+
 
 ### Setup
 1. Download the `module1_tio2003.ino` file and open this file in the Arduino IDE application
