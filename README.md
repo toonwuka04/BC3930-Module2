@@ -17,12 +17,16 @@
 
 ### Code Description 
 
-`/arduinoButtonAndJoystick` - holds the arduino file for code to uploaded to the ESP32 board
+`/arduinoButtonAndJoystick` - holds the arduino file for code to uploaded to the ESP32 board for gathering serial communication 
+
+- `buttonjoystick.ino` - arduino file with ESP 32 code
 
 `/enclosure` - holds the svg files related to the enclosure for laser cutting
 
 `/sanrioinvaders` - holds the code for launching the space invaders interface and game through the Processing application
 
+- `spaceinvaders.pde` - processing file with space invaders code
+  
 ### Fritzing Diagram
 
 <img width="607" alt="fritzdiagram" src="https://github.com/user-attachments/assets/df4b17f3-2255-42ab-8668-069a451cace2">
@@ -40,5 +44,9 @@
 ~ *Feel free to make any edits to the code after downloading and experiment on your own!* ~
 ### Media
 
+# Game Play video: 
 https://github.com/user-attachments/assets/5a80bb89-0fcb-4d04-890f-efea8de33748
 
+# Enclosure photos (front and back view)
+![frontview](https://github.com/user-attachments/assets/899dbb50-a129-451f-877d-eb01a37186f3)
+![backview](https://github.com/user-attachments/assets/cfbe3006-bb35-4f8d-9fd6-0162aacc48eb)
