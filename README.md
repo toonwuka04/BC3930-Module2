@@ -38,7 +38,7 @@
 3. Download the `/arduinoButtonAndJoystick` and `/sanrioinvaders` folders
 4. Open these folders in the Arduino IDE application and Processing application, respectively
 5. Confirm that your ESP32 board connects to the Arduino application by running the arduino code file `buttonjoystick.ino` (you should see printed values read from the serial communication)
-6. Open the '' from the `/sanrioinvaders` folder in the Processing application and ensure that it runs and complies
+6. Open the `sanrioinvaders.pde` from the `/sanrioinvaders` folder in the Processing application and ensure that it runs and complies
 8. Once a screen pops up from the Processing application go ahead and press "s" on the keyboard to start!
    
 ~ *Feel free to make any edits to the code after downloading and experiment on your own!* ~
